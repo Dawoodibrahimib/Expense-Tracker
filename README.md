@@ -95,3 +95,7 @@ Feel free to submit issues or pull requests for enhancements.
 ## Note
 
 This application reads from and writes to a `expense.json` file, so make sure you have the necessary permissions to create and modify files in your project directory.
+
+## Project URL
+
+https://roadmap.sh/projects/expense-tracker

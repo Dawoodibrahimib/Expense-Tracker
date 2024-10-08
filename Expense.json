@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "eating",
+    "amount": 20,
+    "createdAt": "2024-10-08",
+    "updatedAt": "2024-10-08"
+  },
+  {
+    "id": 3,
+    "description": "Potato",
+    "amount": 2300,
+    "createdAt": "2024-10-08",
+    "updatedAt": "2024-10-08"
+  }
+]
